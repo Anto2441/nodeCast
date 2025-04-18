@@ -1,0 +1,22 @@
+# Ignore Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.*
+
+# System files
+.DS_Store
+
+# Optional cache folders
+.cache/
+dist/
+build/
+
+# Others
+.vscode/

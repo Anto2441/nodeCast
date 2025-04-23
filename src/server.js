@@ -19,3 +19,5 @@ app.use('/api/weather', weatherRoutes);
 app.listen(PORT, () => {
   console.log(`🚀 Server running on http://localhost:${PORT}`);
 });
+
+export default app;
